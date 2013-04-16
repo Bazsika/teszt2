@@ -1,0 +1,4 @@
+Ez az elso githubos fajlom.
+
+if(x < 10 )
+	system.out.println("kisebb, mint tiz")
